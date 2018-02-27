@@ -1,0 +1,13 @@
+{
+  "name": "docker-gemini",
+  "version": "0.0.1",
+  "description": "Docker Packaged UI Screenshot testing utility",
+  "dependencies": {
+    "gemini": "^5.5.1",
+    "gemini-gui": "^5.3.0",
+    "gemini-optipng": "^1.2.0",
+    "gemini-json-reporter": "^1.0.1",
+    "gemini-sauce": "^1.0.1",
+    "gemini-xml-reporter": "^1.0.12"
+  }
+}
